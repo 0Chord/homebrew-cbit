@@ -4,8 +4,8 @@
 class Cbit < Formula
   desc "cbit 프로젝트입니다."
   homepage ""
-  url "https://github.com/0Chord/cbit/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "f2da451315a6fda4cf5d738f690a60cac03c46625de6be8a715137896311e7bd"
+  url "https://github.com/0Chord/cbit/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "bf3a116103d5fa1615c3d87649a5e19e85e9884e402bf52151560c7a9b4732bc"
   license "MIT"
 
   depends_on "node"

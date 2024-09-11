@@ -13,7 +13,7 @@ class Cbit < Formula
   end
 
   test do
-    assert_match "cbit version 1.0.0", shell_output("#{bin}/cbit --version")
+    assert_match "cbit version 1.0.5", shell_output("#{bin}/cbit --version")
     system "false"
   end
 end
